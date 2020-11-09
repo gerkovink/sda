@@ -66,10 +66,7 @@ With this seed you'll get the exact same results if you follow the steps in this
 # Installing the latest version of `mice`
 We can use package `devtools` (which needs to be installed) to directly *grab* the latest version from the [`mice` Github Page](https://github.com/stefvanbuuren/mice) and compile the `mice` package from source. 
 ```{r eval=FALSE}
-# If devtools is not installed:
-install.packages("devtools") 
-# To install the latest mice version:
-devtools::install_github("stefvanbuuren/mice")
+install.packages("mice")
 ```
 You can update all dependencies with more recent versions, if asked. 
 
