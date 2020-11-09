@@ -1,0 +1,57 @@
+---
+title: "MICE exercises"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: scroll
+---
+
+# Intro {.sidebar}
+
+This dashboard covers the practical exercise materials for the [***Missing Data module in Survey Data Analysis***](https://osiris.uu.nl/osiris_student_uuprd/OnderwijsCatalogusSelect.do?selectie=cursus&cursus=201300001&collegejaar=2020&taal=en)
+
+---
+
+Module instructors: <br>
+[Stef van Buuren](https://www.stefvanbuuren.name) and [Gerko Vink](https://www.gerkovink.com) <br>
+
+---
+
+| When? | What?        | Where? |
+|-------|--------------|--------|
+| Wk 46 | Exercise 1-3 | online |
+| Wk 47 | Exercise 4-6 | online |
+
+---
+
+# Week 46: 9-13 Nov
+
+## Column 1
+
+### Exercises for this week
+
+The following exercises are walkthroughs that take you through the process of drawing valid inferences from incomplete data sets with `mice` in `R`. 
+
+- [Exercise 1]()
+- [Exercise 2]()
+- [Exercise 3]()
+
+### Discussion of Exercises
+
+Video walkthroughs for this week's exercises is available from Thursday 12 November.
+
+# Week 47: 16-20 Nov
+
+## Column 1
+
+### Exercises for this week
+
+The following exercises are walkthroughs that take you through the process of drawing valid inferences from incomplete data sets with `mice` in `R`. 
+
+- [Exercise 4]()
+- [Exercise 5]()
+- [Exercise 6]()
+
+### Discussion of Exercises
+
+Video walkthroughs for this week's exercises is available from Thursday 19 November.
