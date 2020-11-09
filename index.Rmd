@@ -32,9 +32,9 @@ Module instructors: <br>
 
 The following exercises are walkthroughs that take you through the process of drawing valid inferences from incomplete data sets with `mice` in `R`. 
 
-- [Exercise 1]()
-- [Exercise 2]()
-- [Exercise 3]()
+- [Exercise 1](Exercises/Exercise 1/1.-Ad_hoc_methods.html)
+- [Exercise 2](Exercises/Exercise 2/2.-Convergence_and_pooling.html)
+- [Exercise 3](Exercises/Exercise 3/3.-Missingness_inspection.html)
 
 ### Discussion of Exercises
 
@@ -48,9 +48,9 @@ Video walkthroughs for this week's exercises is available from Thursday 12 Novem
 
 The following exercises are walkthroughs that take you through the process of drawing valid inferences from incomplete data sets with `mice` in `R`. 
 
-- [Exercise 4]()
-- [Exercise 5]()
-- [Exercise 6]()
+- [Exercise 4](Exercises/Exercise 4/4.-Passive-imputation_post_processing.html)
+- [Exercise 5](Exercises/Exercise 5/5.-Combining_inferences.html)
+- [Exercise 6](Exercises/Exercise 6/Multi_level_data.html)
 
 ### Discussion of Exercises
 
