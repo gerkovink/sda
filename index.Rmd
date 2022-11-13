@@ -8,7 +8,7 @@ output:
 
 # Intro {.sidebar}
 
-This dashboard covers the practical exercise materials for the [***Missing Data module in Survey Data Analysis***](https://osiris.uu.nl/osiris_student_uuprd/OnderwijsCatalogusSelect.do?selectie=cursus&cursus=201300001&collegejaar=2020&taal=en)
+This dashboard covers the practical exercise materials for the [***Missing Data module in Survey Data Analysis***](https://osiris.uu.nl/osiris_student_uuprd/OnderwijsCatalogusSelect.do?selectie=cursus&collegejaar=2022&cursus=201300001&taal=nl)
 
 ---
 
@@ -19,12 +19,12 @@ Module instructors: <br>
 
 | When? | What?        | Where? |
 |-------|--------------|--------|
-| Wk 45 | Exercise 1-3 | online |
-| Wk 46 | Exercise 4-6 | online |
+| Wk 46 | Exercise 1-3 | offline |
+| Wk 47 | Exercise 4-6 | offline |
 
 ---
 
-# Week 45: 8-12 Nov
+# Wk 46: 14-18 Nov
 
 ## Column 1
 
@@ -44,7 +44,7 @@ Video walkthroughs for this week's exercises:
 - [Exercise 2 walkthrough](https://www.dropbox.com/s/2118fbiirf91mq0/Exercise%202.mp4?dl=0)
 - [Exercise 3 walkthrough](https://www.dropbox.com/s/77ckcmwjy82wl9w/Exercise%203.mp4?dl=0)
 
-# Week 46: 15-19 Nov
+# Wk 47: 21-25 Nov
 
 ## Column 1
 
@@ -58,8 +58,7 @@ The following exercises are walkthroughs that take you through the process of dr
 
 ### Discussion of Exercises
 
-Video walkthroughs for this week's exercises is available from Thursday 19 November.
+Video walkthroughs for exercises 4 and 5:
 
 - [Exercise 4 walkthrough](https://www.dropbox.com/s/9u9ncf1qgxj3g9u/Exercise%204.mp4?dl=0)
 - [Exercise 5 walkthrough](https://www.dropbox.com/s/9ykzcci5kf5lguw/Exercise%205.mp4?dl=0)
-- [Exercise 6 walkthrough]()
