@@ -24,7 +24,7 @@ Module instructors: <br>
 
 ---
 
-# Wk 46: 4-8 Nov
+# Wk 45: 4-8 Nov
 
 ## Column 1
 
@@ -44,7 +44,7 @@ If you struggle with the exercises, feel free to ask us for any help. We also ha
 - [Exercise 2 walkthrough](https://www.dropbox.com/s/2118fbiirf91mq0/Exercise%202.mp4?dl=0)
 - [Exercise 3 walkthrough](https://www.dropbox.com/s/77ckcmwjy82wl9w/Exercise%203.mp4?dl=0)
 
-# Wk 47: 11-15 Nov
+# Wk 46: 11-15 Nov
 
 ## Column 1
 
