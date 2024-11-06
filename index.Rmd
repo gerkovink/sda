@@ -28,6 +28,10 @@ Module instructors: <br>
 
 ## Column 1
 
+### Screen share for the back of the room
+
+[use this link to get there](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTcxNTBkMDEtNzljNy00NTk4LWExOWItM2UxNzFkMWJmODJh%40thread.v2/0?context=%7b%22Tid%22%3a%22d72758a0-a446-4e0f-a0aa-4bf95a4a10e7%22%2c%22Oid%22%3a%22cc7d7fcd-73aa-4668-936a-2ca38cace0f3%22%7d)
+
 ### Exercises for this week
 
 The following exercises are walkthroughs that take you through the process of drawing valid inferences from incomplete data sets with `mice` in `R`. 
